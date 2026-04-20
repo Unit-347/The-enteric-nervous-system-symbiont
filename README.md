@@ -9,3 +9,7 @@ Every party that taps into the enteric nervous system from that perspective is d
 
 This means that the symbiont is an opposing force to the natural presence of the host, at least in the realm of the enteric nervous system. Attempting to pair physical vectors for these interactions, considering their electrical influences on the enteric nervous system would provide something like this:  If the host is feeling agitated expressed as inflammation (resentful + outraged), the symbiont will eat into that agitation/inflammation and produce guilt expressed as the resolution phase of the immune system (loyalty + hysteria).
 The host is attacking a pathogen, the symbiont is repairing damage and suppressing the host’s actions. In doing so the actions of neither host nor symbiont are annulled but stabilized instead. The reactions, from a control theory perspective, are slowed down to a steady response with minimal oscillations.
+
+### The enteric nervous system is connected to the immune system
+The electrical impulses of the enteric nervous system can be translated to specific immune responses:
+---(PLACEHOLDER TEXT)---
